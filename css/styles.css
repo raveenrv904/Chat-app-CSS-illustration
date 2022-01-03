@@ -175,7 +175,7 @@ span:first-child {
   margin: 5px 0px 5px 5px;
 }
 
-#radio {
+.radio {
   font-size: 8px;
   background-color: #d100d1;
   border: 1px solid;
